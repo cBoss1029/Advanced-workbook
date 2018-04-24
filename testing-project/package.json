@@ -1,0 +1,16 @@
+{
+  "name": "testing-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^22.4.3",
+    "kkannen-dash": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
